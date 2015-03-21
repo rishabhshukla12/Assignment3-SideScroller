@@ -1,0 +1,6 @@
+F:\web game assignment 3 demos\Assignment3-COMP397-HanumanWars\bin\MailPilot-Assignment3.dll.config
+F:\web game assignment 3 demos\Assignment3-COMP397-HanumanWars\bin\MailPilot-Assignment3.dll
+F:\web game assignment 3 demos\Assignment3-COMP397-HanumanWars\bin\MailPilot-Assignment3.pdb
+F:\web game assignment 3 demos\Assignment3-COMP397-HanumanWars\obj\Debug\Assignment3-COMP397-HanumanWars.csprojResolveAssemblyReference.cache
+F:\web game assignment 3 demos\Assignment3-COMP397-HanumanWars\obj\Debug\MailPilot-Assignment3.dll
+F:\web game assignment 3 demos\Assignment3-COMP397-HanumanWars\obj\Debug\MailPilot-Assignment3.pdb
