@@ -81,8 +81,8 @@ module states {
 
         /* Method to change instructions*/
         public getInstructions() {
-            return "\n\n\n\n1. Move your Mouse Up and Down to Move the \n    Mario, only up and down is allowed \n\n" +
-                "2. Avoid to Touch with the Enemies, otherwise you \n    will lose one life. \n\n3. Catch the small Ice Cream, each ice-cream\n    gives you 100 points ";
+            return "\n\n\n\n1. Move your Mouse Up and Down to Move the \n    Hanuman, only up and down is allowed \n\n" +
+                "2. Avoid to Touch with the Dragons, otherwise you \n    will lose one life. \n\n3. Catch the small Fireup, each one Fire up \n    will give you 100 points ";
         }
     }
 }
